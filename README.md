@@ -9,6 +9,7 @@
 - CSS
 - Python 
 - Haskell
+- Assembler
 
 ## Tecnicas aprendidas:
 - Base de datos mediante Genexus
