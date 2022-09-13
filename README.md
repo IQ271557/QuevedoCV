@@ -1,7 +1,7 @@
-# **Ignacio Quevedo Curriculum** 
+# **Ignacio Quevedo Currículum** 
 
 
-## Lenguajes de Programacion aprendidos:
+## Lenguajes de Programación aprendidos:
 - Java
 - JavaScript
 - C++
@@ -15,7 +15,7 @@
 - Visual Studio Code, Visual Studio 2022, Notepad++
 
 ## Idiomas aprendidos:
-- Ingles(Certificado Proficiency (ECPE))
+- Ingles (Certificado Proficiency (ECPE))
 - Portugues (Examen Intermedio)
 - Español (Lengua Natal)
 
