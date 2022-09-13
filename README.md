@@ -1,4 +1,4 @@
-# **"Ignacio Quevedo Curriculum" ** 
+# **Ignacio Quevedo Curriculum** 
 
 
 ## Lenguajes de Programacion aprendidos:
