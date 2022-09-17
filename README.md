@@ -1,6 +1,6 @@
 # **Ignacio Quevedo Currículum** 
 
-
+A
 ## Lenguajes de Programación aprendidos:
 - Java
 - JavaScript
@@ -10,7 +10,7 @@
 - Python 
 - Haskell
 - Assembler
-
+asd
 ## Tecnicas aprendidas:
 - Base de datos mediante Genexus
 - Visual Studio Code, Visual Studio 2022, Notepad++
