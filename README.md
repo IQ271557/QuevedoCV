@@ -1,6 +1,5 @@
 # **Ignacio Quevedo Currículum** 
 
-probando123
 ## Lenguajes de Programación aprendidos:
 - Java
 - JavaScript
@@ -10,7 +9,6 @@ probando123
 - Python 
 - Haskell
 - Assembler
-asd
 ## Tecnicas aprendidas:
 - Base de datos mediante Genexus
 - Visual Studio Code, Visual Studio 2022, Notepad++
